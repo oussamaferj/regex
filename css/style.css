@@ -1,0 +1,40 @@
+body{
+    padding-bottom: 200px;
+    background-color: #433249;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.formulaire{
+padding-top: 100px;
+line-height: 5em;
+margin: 0 auto; 
+width:250px;
+margin-left: 650px;
+}
+
+.buttons{
+  
+  width: 650px;
+  line-height: 2em;
+  background-color: #292739;
+  color: white;
+  border: none;
+  -webkit-border-radius: 3px;
+  margin-bottom: 50px; 
+  
+  
+}
+.txt{
+  color: white;
+  background-color: #292739;
+  
+  -webkit-border-radius: 5px;
+  width: 650px;
+  height: 45px;
+  border: none;
+}
+.lab{
+
+  color:white;
+ 
+}
